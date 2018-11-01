@@ -1,5 +1,5 @@
 # binder-sandbox
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hadim/anamic/master?urlpath=lab/tree/notebooks)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hadim/binder-sandbox/master?urlpath=lab/tree/notebooks)
 
 ## License
 
