@@ -18,3 +18,10 @@ dependencies:
     - ipyvolume
     - tqdm
     - nodejs
+    - itk
+    - six
+    - ipydatawidgets
+    - zstandard
+    - ipympl
+    - pip:
+      - itkwidgets
